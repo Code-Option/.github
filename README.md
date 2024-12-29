@@ -109,6 +109,3 @@ The choice of license depends on the project's goals:
 2. **Innovation Protection:** Apache 2.0 is used to protect patents and ensure attribution.  
 
 ---
-
-## 📜 License  
-This project is licensed under the [MIT License](./LICENSE). For more details, refer to the `LICENSE` file.  
