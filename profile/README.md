@@ -67,14 +67,6 @@ The heart of CodeOption is its passionate team:
 - **[İlayda Taş]**        ([LinkedIn](https://www.linkedin.com/in/ilaydatas/))
 
 ---
-
-## 📢 Contact Us  
-- **Email:** postmaster@codeoption.tech  
-- **Website:** [www.codeoption.tech](https://www.codeoption.tech)  
-- **Social Media:**  
-  - [LinkedIn](https://linkedin.com/codeoption)  
-  - [Twitter](https://twitter.com/codeoption)  
-
 ## 📢 Contact Us  
 Have questions or ideas? Let’s connect!  
 - **Email:** [contact@codeoption.tech](mailto:contact@codeoption.tech)  
@@ -83,7 +75,6 @@ Have questions or ideas? Let’s connect!
   - [LinkedIn](https://linkedin.com/codeoption)  
   - [Twitter](https://instagram.com/codeoptiontech)  
 
----
 ---
 
 ## 📜 License Information  
